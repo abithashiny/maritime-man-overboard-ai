@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environment environments
+.env
+venv/
+env/
+
+# Streamlit config and large video logs
+.streamlit/
+*.mp4
+*.avi
